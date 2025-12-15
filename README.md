@@ -60,7 +60,8 @@ I can see the interface between humans and systems, not just existing deployment
 
 I aim to build software that makes collaboration legible, where users and developers alike understand what’s happening and why.
 
-## Closing
+## Contact me
 
 I’m especially interested in working on products where collaboration is core.
-If you’re building tools for teams, shared workflows, or complex coordination, I’d love to talk.
+
+If you’re building tools for teams, shared workflows, or complex coordination, [I’d love to talk](https://forms.gle/RyNcriWtbBkHFdZn9).
