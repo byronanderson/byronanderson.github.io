@@ -3,8 +3,8 @@ import "./home.css";
 
 export function meta({ }: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Byron Anderson" },
+    { name: "description", content: "A software developer's home site." },
   ];
 }
 
