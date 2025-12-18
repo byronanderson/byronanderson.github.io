@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+.Home section {
+  @apply pt-2;
+}
+
+.Home p {
+  @apply py-2;
+}
+
+.Home ul li {
+  list-style: disc;
+  @apply ml-6;
+}
+
+.Home h1 {
+  @apply text-xl font-bold;
+}
+
+.Home h2 {
+  @apply text-xl;
+}
+
+.Home h3 {
+  @apply text-lg;
+}
+
+.Home a {
+  @apply text-blue-500;
+}
